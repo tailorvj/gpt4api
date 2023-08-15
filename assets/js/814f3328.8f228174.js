@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[2535],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Docusaurus Docs","permalink":"/gpt4api/blog/docusaurus-docs"},{"title":"First Working Solution","permalink":"/gpt4api/blog/first-working-solution"}]}')}}]);

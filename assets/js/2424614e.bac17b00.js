@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5228],{597:s=>{s.exports=JSON.parse('{"label":"devops","permalink":"/gpt4api/blog/tags/devops","allTagsPath":"/gpt4api/blog/tags","count":1}')}}]);
